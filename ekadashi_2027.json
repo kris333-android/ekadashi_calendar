@@ -1,0 +1,202 @@
+[
+  {
+    "id": "saphala_ekadashi_2027_jan",
+    "ekadashi_id": "saphala_ekadashi",
+    "date": "2027-01-02",
+    "year": "2027",
+    "parana_start": "12:10",
+    "parana_end": null
+  },
+  {
+    "id": "putrada_ekadashi_2027_jan",
+    "ekadashi_id": "putrada_ekadashi",
+    "date": "2027-01-18",
+    "year": "2027",
+    "parana_start": "07:46",
+    "parana_end": "10:54"
+  },
+  {
+    "id": "shat_tila_ekadashi_2027_feb",
+    "ekadashi_id": "shat_tila_ekadashi",
+    "date": "2027-02-01",
+    "year": "2027",
+    "parana_start": "07:33",
+    "parana_end": "10:52"
+  },
+  {
+    "id": "bhaimi_ekadashi_2027_feb",
+    "ekadashi_id": "bhaimi_ekadashi",
+    "date": "2027-02-17",
+    "year": "2027",
+    "parana_start": "07:12",
+    "parana_end": "10:45"
+  },
+  {
+    "id": "vijaya_ekadashi_2027_mar",
+    "ekadashi_id": "vijaya_ekadashi",
+    "date": "2027-03-03",
+    "year": "2027",
+    "parana_start": "06:49",
+    "parana_end": "10:36"
+  },
+  {
+    "id": "amalaki_ekadashi_2027_mar",
+    "ekadashi_id": "amalaki_ekadashi",
+    "date": "2027-03-18",
+    "year": "2027",
+    "parana_start": "07:23",
+    "parana_end": "11:25"
+  },
+  {
+    "id": "papamochani_ekadashi_2027_apr",
+    "ekadashi_id": "papamochani_ekadashi",
+    "date": "2027-04-02",
+    "year": "2027",
+    "parana_start": "06:56",
+    "parana_end": "11:13"
+  },
+  {
+    "id": "kamada_ekadashi_2027_apr",
+    "ekadashi_id": "kamada_ekadashi",
+    "date": "2027-04-16",
+    "year": "2027",
+    "parana_start": "06:32",
+    "parana_end": "11:02"
+  },
+  {
+    "id": "varuthini_ekadashi_2027_may",
+    "ekadashi_id": "varuthini_ekadashi",
+    "date": "2027-05-02",
+    "year": "2027",
+    "parana_start": "06:07",
+    "parana_end": "10:33"
+  },
+  {
+    "id": "mohini_ekadashi_2027_may",
+    "ekadashi_id": "mohini_ekadashi",
+    "date": "2027-05-16",
+    "year": "2027",
+    "parana_start": "05:51",
+    "parana_end": "06:58"
+  },
+  {
+    "id": "apara_ekadashi_2027_may",
+    "ekadashi_id": "apara_ekadashi",
+    "date": "2027-05-31",
+    "year": "2027",
+    "parana_start": "05:51",
+    "parana_end": "10:43"
+  },
+  {
+    "id": "pandava_nirjala_ekadashi_2027_jun",
+    "ekadashi_id": "pandava_nirjala_ekadashi",
+    "date": "2027-06-14",
+    "year": "2027",
+    "parana_start": "05:35",
+    "parana_end": "10:44"
+  },
+  {
+    "id": "yogini_ekadashi_2027_jun",
+    "ekadashi_id": "yogini_ekadashi",
+    "date": "2027-06-30",
+    "year": "2027",
+    "parana_start": "05:40",
+    "parana_end": "08:44"
+  },
+  {
+    "id": "sayana_ekadashi_2027_jul",
+    "ekadashi_id": "sayana_ekadashi",
+    "date": "2027-07-13",
+    "year": "2027",
+    "parana_start": "10:02",
+    "parana_end": "10:52"
+  },
+  {
+    "id": "kamika_ekadashi_2027_jul",
+    "ekadashi_id": "kamika_ekadashi",
+    "date": "2027-07-29",
+    "year": "2027",
+    "parana_start": "06:04",
+    "parana_end": "10:57"
+  },
+  {
+    "id": "pavitropana_ekadashi_2027_aug",
+    "ekadashi_id": "pavitropana_ekadashi",
+    "date": "2027-08-12",
+    "year": "2027",
+    "parana_start": "06:20",
+    "parana_end": "11:01"
+  },
+  {
+    "id": "annada_ekadashi_2027_aug",
+    "ekadashi_id": "annada_ekadashi",
+    "date": "2027-08-28",
+    "year": "2027",
+    "parana_start": "06:38",
+    "parana_end": "11:05"
+  },
+  {
+    "id": "parshva_ekadashi_2027_sep",
+    "ekadashi_id": "parshva_ekadashi",
+    "date": "2027-09-11",
+    "year": "2027",
+    "parana_start": "06:54",
+    "parana_end": "11:07"
+  },
+  {
+    "id": "indira_ekadashi_2027_sep",
+    "ekadashi_id": "indira_ekadashi",
+    "date": "2027-09-26",
+    "year": "2027",
+    "parana_start": "07:10",
+    "parana_end": "07:25"
+  },
+  {
+    "id": "pashankusha_ekadashi_2027_oct",
+    "ekadashi_id": "pashankusha_ekadashi",
+    "date": "2027-10-10",
+    "year": "2027",
+    "parana_start": "11:09",
+    "parana_end": "11:12"
+  },
+  {
+    "id": "rama_ekadashi_2027_oct",
+    "ekadashi_id": "rama_ekadashi",
+    "date": "2027-10-25",
+    "year": "2027",
+    "parana_start": "07:46",
+    "parana_end": "11:16"
+  },
+  {
+    "id": "utthana_ekadashi_2027_nov",
+    "ekadashi_id": "utthana_ekadashi",
+    "date": "2027-11-09",
+    "year": "2027",
+    "parana_start": "07:05",
+    "parana_end": "10:23"
+  },
+  {
+    "id": "utpanna_ekadashi_2027_nov",
+    "ekadashi_id": "utpanna_ekadashi",
+    "date": "2027-11-23",
+    "year": "2027",
+    "parana_start": "07:23",
+    "parana_end": "10:30"
+  },
+  {
+    "id": "mokshada_ekadashi_2027_dec",
+    "ekadashi_id": "mokshada_ekadashi",
+    "date": "2027-12-09",
+    "year": "2027",
+    "parana_start": "07:40",
+    "parana_end": "10:40"
+  },
+  {
+    "id": "saphala_ekadashi_2027_dec",
+    "ekadashi_id": "saphala_ekadashi",
+    "date": "2027-12-23",
+    "year": "2027",
+    "parana_start": "07:49",
+    "parana_end": "10:48"
+  }
+]

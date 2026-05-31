@@ -1,0 +1,6 @@
+{
+  "last_updated": "2026-05-31",
+  "available_years": [2025, 2026, 2027],
+  "timezones": ["ist", "et", "gmt", "gst", "ct", "pt", "aest"],
+  "next_update_due": "2026-10-01"
+}

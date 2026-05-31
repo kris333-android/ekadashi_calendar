@@ -1,0 +1,252 @@
+[
+  {
+    "id": "saphala_ekadashi_gmt_2027_jan",
+    "ekadashi_id": "Saphala Ekadashi",
+    "date": "2027-01-03",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "08:06",
+    "parana_end": "10:45"
+  },
+  {
+    "id": "putrada_ekadashi_gmt_2027_jan",
+    "ekadashi_id": "Putrada Ekadashi",
+    "date": "2027-01-18",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "07:56",
+    "parana_end": "10:46"
+  },
+  {
+    "id": "shat_tila_ekadashi_gmt_2027_feb",
+    "ekadashi_id": "Shat Tila Ekadashi",
+    "date": "2027-02-02",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "07:36",
+    "parana_end": "08:20"
+  },
+  {
+    "id": "bhaimi_ekadashi_gmt_2027_feb",
+    "ekadashi_id": "Bhaimi Ekadashi",
+    "date": "2027-02-17",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "07:09",
+    "parana_end": "08:57"
+  },
+  {
+    "id": "vijaya_ekadashi_gmt_2027_mar",
+    "ekadashi_id": "Vijaya Ekadashi",
+    "date": "2027-03-03",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "08:31",
+    "parana_end": "10:22"
+  },
+  {
+    "id": "amalaki_ekadashi_gmt_2027_mar",
+    "ekadashi_id": "Amalaki Ekadashi",
+    "date": "2027-03-18",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "06:06",
+    "parana_end": "10:08"
+  },
+  {
+    "id": "papamochani_ekadashi_gmt_2027_apr",
+    "ekadashi_id": "Papamochani Ekadashi",
+    "date": "2027-04-02",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "06:32",
+    "parana_end": "10:53"
+  },
+  {
+    "id": "kamada_ekadashi_gmt_2027_apr",
+    "ekadashi_id": "Kamada Ekadashi",
+    "date": "2027-04-17",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "05:59",
+    "parana_end": "10:40"
+  },
+  {
+    "id": "varuthini_ekadashi_gmt_2027_may",
+    "ekadashi_id": "Varuthini Ekadashi",
+    "date": "2027-05-02",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "05:29",
+    "parana_end": "10:28"
+  },
+  {
+    "id": "mohini_ekadashi_gmt_2027_may",
+    "ekadashi_id": "Mohini Ekadashi",
+    "date": "2027-05-16",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "05:06",
+    "parana_end": "10:20"
+  },
+  {
+    "id": "apara_ekadashi_gmt_2027_jun",
+    "ekadashi_id": "Apara Ekadashi",
+    "date": "2027-06-01",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "04:48",
+    "parana_end": "10:15"
+  },
+  {
+    "id": "pandava_nirjala_ekadashi_gmt_2027_jun",
+    "ekadashi_id": "Pandava Nirjala Ekadashi",
+    "date": "2027-06-14",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "04:43",
+    "parana_end": "10:15"
+  },
+  {
+    "id": "yogini_ekadashi_gmt_2027_jun",
+    "ekadashi_id": "Yogini Ekadashi",
+    "date": "2027-06-30",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "04:47",
+    "parana_end": "10:18"
+  },
+  {
+    "id": "sayana_ekadashi_gmt_2027_jul",
+    "ekadashi_id": "Sayana Ekadashi",
+    "date": "2027-07-14",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "05:00",
+    "parana_end": "10:10"
+  },
+  {
+    "id": "kamika_ekadashi_gmt_2027_jul",
+    "ekadashi_id": "Kamika Ekadashi",
+    "date": "2027-07-29",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "05:59",
+    "parana_end": "10:31"
+  },
+  {
+    "id": "pavitropana_ekadashi_gmt_2027_aug",
+    "ekadashi_id": "Pavitropana Ekadashi",
+    "date": "2027-08-12",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "05:42",
+    "parana_end": "10:37"
+  },
+  {
+    "id": "annada_ekadashi_gmt_2027_aug",
+    "ekadashi_id": "Annada Ekadashi",
+    "date": "2027-08-28",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "06:08",
+    "parana_end": "10:43"
+  },
+  {
+    "id": "parshva_ekadashi_gmt_2027_sep",
+    "ekadashi_id": "Parshva Ekadashi",
+    "date": "2027-09-11",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "06:30",
+    "parana_end": "10:47"
+  },
+  {
+    "id": "indira_ekadashi_gmt_2027_sep",
+    "ekadashi_id": "Indira Ekadashi",
+    "date": "2027-09-26",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "06:54",
+    "parana_end": "10:52"
+  },
+  {
+    "id": "pashankusha_ekadashi_gmt_2027_oct",
+    "ekadashi_id": "Pashankusha Ekadashi",
+    "date": "2027-10-11",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "07:19",
+    "parana_end": "10:57"
+  },
+  {
+    "id": "rama_ekadashi_gmt_2027_oct",
+    "ekadashi_id": "Rama Ekadashi",
+    "date": "2027-10-25",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "07:43",
+    "parana_end": "11:04"
+  },
+  {
+    "id": "utthana_ekadashi_gmt_2027_nov",
+    "ekadashi_id": "Utthana Ekadashi",
+    "date": "2027-11-09",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "09:55",
+    "parana_end": "10:12"
+  },
+  {
+    "id": "utpanna_ekadashi_gmt_2027_nov",
+    "ekadashi_id": "Utpanna Ekadashi",
+    "date": "2027-11-24",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "07:34",
+    "parana_end": "10:23"
+  },
+  {
+    "id": "mokshada_ekadashi_gmt_2027_dec",
+    "ekadashi_id": "Mokshada Ekadashi",
+    "date": "2027-12-09",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "07:55",
+    "parana_end": "10:33"
+  },
+  {
+    "id": "saphala_ekadashi_gmt_2027_dec",
+    "ekadashi_id": "Saphala Ekadashi",
+    "date": "2027-12-23",
+    "year": "2027",
+    "timezone": "GMT",
+    "location": "London, United Kingdom",
+    "parana_start": "08:05",
+    "parana_end": "10:42"
+  }
+]
